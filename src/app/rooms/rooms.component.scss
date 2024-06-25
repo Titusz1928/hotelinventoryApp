@@ -1,0 +1,19 @@
+:host ::ng-deep .table tbody tr.even {
+    background-color: steelblue !important;
+    color: white !important;
+}
+
+:host ::ng-deep .table tbody tr.odd {
+    background-color: white !important;
+    color: steelblue !important;
+}
+
+:host ::ng-deep .table tbody tr.even td {
+    background-color: steelblue !important;
+    color: white !important;
+}
+
+:host ::ng-deep .table tbody tr.odd td {
+    background-color: white !important;
+    color: steelblue !important;
+}
